@@ -1,6 +1,5 @@
 Learning 
 
+This is a new change. 
 
-First update:
-
-This is a new project.
+Updated today march 9th
