@@ -1,0 +1,7 @@
+This is first day of learning git. 
+
+Creating the first file using command line. 
+
+
+Modification added
+
